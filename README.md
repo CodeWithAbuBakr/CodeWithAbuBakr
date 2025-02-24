@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithabubakr" alt="codewithabubakr" /></a> </p>
 
-- 🌱 I’m currently learning **Everything That I like to learn**
+- 🌱 I’m currently diving deeper into **Office 365 Add-ins and Full Stack Development.**
 
-- 💬 Ask me about **Office 365 Add-ins**
+- 💬 Ask me about **Office 365 Add-ins – I love helping out!**
 
 - 📫 How to reach me **muhammadabubakr9292@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I’m funny, and sometimes, my code agrees! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
