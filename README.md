@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codewithabubakr&show_icons=true&locale=en" alt="codewithabubakr" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithabubakr&" alt="codewithabubakr" /></p>
