@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadabubakr9292@gmail.com**
 
-- ⚡ Fun fact: **I think I’m funny, and sometimes, my code agrees! 😄😄😄**
+- ⚡ Fun fact: **I think I’m funny, and sometimes, my code agrees! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
