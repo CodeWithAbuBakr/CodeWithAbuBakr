@@ -27,7 +27,7 @@
 - 🌐 Here is my [portfolio](https://mabubakr.vercel.app)
 
 ### 📞 Connect with me:
-[![Upwork](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01da48bf334d633c83?viewMode=1)
+[![Upwork](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015b55c01432e00173?viewMode=1)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25403724/muhammad-abu-bakr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammadabubakr9292@gmail.com)
 
